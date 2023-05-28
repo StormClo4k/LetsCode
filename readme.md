@@ -10,4 +10,5 @@ git diff >  realiza uma função de comparação nas fontes de dados Git
 git commit -m >  captura a versão das mudanças preparadas do projeto no momento
 git log > mostra o  historico de commits feitos
 git restore .\ > remove as modificações
-git branch> 
+git branch >  O comando git branch permite criar, listar, renomear e excluir ramificações.
+git checkout nomedabranch > troca de branch
